@@ -1,9 +1,21 @@
+
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Virtual environment
-venv/
+# Environment variables
 .env
+
+# Virtual Environment
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
